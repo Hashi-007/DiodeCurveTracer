@@ -47,11 +47,19 @@ To run the simulation in Proteus, you must have the following libraries installe
 
 Ensure these libraries are added to your Proteus installation before running the simulation.
 
+## Circuit Diagram
+
+Below is the circuit diagram for the diode curve tracer:
+
+![Circuit Diagram](https://github.com/Hashi-007/DiodeCurveTracer/assets/154681644/bbfa8c4b-fc05-4f0c-9bb8-5c555d7b240d)
+
+
 ## Future Improvements
 
 - *Data Logging:* Add functionality to log data to an SD card for later analysis.
 - *PC Interface:* Develop a software interface to display the curves on a computer.
 - *Multiple Diodes:* Implement functionality to switch between multiple diodes for comparative analysis.
+- *Increased Range:* Improve the circuit design to measure diodes with a higher forward voltage range beyond 4.8V.
 
 ## Contributing
 
